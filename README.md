@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Olá 👋! Me chamo Lucas e sou Desenvolvedor Java Junior!</h2>
+<h2 align="left">Olá 👋! Me chamo Lucas e sou Desenvolvedor Pleno!</h2>
 
 ###
 
